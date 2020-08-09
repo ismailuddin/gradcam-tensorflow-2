@@ -11,3 +11,8 @@ Notebook provided with step-by-step explanations.
 - TensorFlow 2.X
 - Matplotlib
 - OpenCV
+
+## References
+- [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
+- https://gist.github.com/RaphaelMeudec/e9a805fa82880876f8d89766f0690b54
+- https://github.com/jacobgil/pytorch-grad-cam
