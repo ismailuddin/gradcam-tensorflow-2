@@ -1,4 +1,5 @@
 # 🔭 Grad-CAM implemenation in TensorFlow 2.X
+[![DOI](https://zenodo.org/badge/286249315.svg)](https://zenodo.org/badge/latestdoi/286249315)
 >   A TensorFlow 2.X implementation of the various uses of Grad-CAM the original paper, including counterfactual examples and guided Grad-CAM.
 
 ![Example](./data/example.jpg)
