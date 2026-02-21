@@ -5,13 +5,16 @@
 ![Example](./data/example.jpg)
 
 ## Usage
-Notebook provided with step-by-step explanations.
+Three separate Marimo notebooks are provided for:
+
+- GradCam
+- Counter-factual GradCam
+- Guided GradCam with high saliency maps
+
+They can be viewed using `uv run marimo edit`.
 
 ## Requirements
-- Python 3.6 or newer
-- TensorFlow 2.X
-- Matplotlib
-- OpenCV
+- [uv](https://docs.astral.sh/uv/)
 
 ## References
 - [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)

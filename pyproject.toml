@@ -1,0 +1,19 @@
+[project]
+name = "gradcam-tensorflow-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.2",
+    "opencv-python-headless>=4.13.0.92",
+    "pandas>=3.0.1",
+    "tensorflow>=2.20.0",
+]
+
+[dependency-groups]
+dev = [
+    "marimo>=0.20.1",
+    "ruff>=0.15.2",
+]
