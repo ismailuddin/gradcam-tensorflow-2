@@ -1,4 +1,5 @@
-tensorflow==2.3.0
+# tensorflow==2.3.0
+tensorflow==2.10.0
 matplotlib
 numpy
 pandas
